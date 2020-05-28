@@ -34,3 +34,4 @@ public class BackgroundTile : MonoBehaviour {
 		sprite.color = new Color(color.r, color.g, color.b, newAlpha);
 	}
 }
+

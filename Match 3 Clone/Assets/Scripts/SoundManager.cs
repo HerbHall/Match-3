@@ -14,3 +14,4 @@ public class SoundManager : MonoBehaviour {
 		destroyNoise[clipToPlay].Play();
 	}
 }
+

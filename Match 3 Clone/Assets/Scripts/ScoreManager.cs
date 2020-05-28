@@ -40,3 +40,4 @@ public class ScoreManager : MonoBehaviour {
         }
 	}
 }
+
